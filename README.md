@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajintern
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Java deveoplment
+- 👀 I’m interested in Web development,Python development
+- 🌱 I’m currently learning c++ stl deveoplment
 - 📫 How to reach me rajvsraj0123@gmail.com
 
 <!---
