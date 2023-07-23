@@ -22,9 +22,12 @@
 :woman_technologist: About Me :
 
 - 👋 Hi, I’m @rajkushwaha
-- 👀 I’m interested in Web development,Java,Python
-- 🌱 I’m currently learning MERN Full Stack Web Development
-- 📫 How to reach me rajvsraj0123@gmail.com
+- 👨‍🎓 Final year student at PSIT-College Of Engineering
+- 👀 I’m interested in Web development,Java,Python,Software Development.
+- 🌱 I’m currently learning MERN Full-Stack Web Development.
+- ⚡ I have soove 700+ problems on various platform.
+- 🌐 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/raj-kushwaha-92611b20a/)
+- 📫 How to reach me rajvsraj0123@gmail.com 
 
 <!---
 Rajintern/Rajintern is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
