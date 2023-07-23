@@ -35,6 +35,11 @@
 <a href="https://leetcode.com/rajkushwaha809/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raj" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/RAJKUSHWAHA28805?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="raj" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rajvsraj0123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="raj" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/rajkushwaha809"><img src="https://cdn.codechef.com/sites/all/themes/abessive/images/user_default_thumb.jpg" height="30" width="40" align="center"> </a>
+<a href="https://www.codingninjas.com/studio/profile/rajkushwaha0"><img src="https://files.codingninjas.in/cn-studio-new-logo-dark-27999.svg" height="50" width="60" align="center"> </a>
+
+
+
   
 </p>
 
