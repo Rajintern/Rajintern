@@ -27,7 +27,7 @@
 - 🌱 I’m currently learning MERN Full-Stack Web Development.
 - ⚡ I have soove 700+ problems on various platform.
 - 🌐 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Raj-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/raj-kushwaha-92611b20a/)
-- 📫 How to reach me rajvsraj0123@gmail.com 
+- 📫 How to reach me:  [![Gmail Badge](https://img.shields.io/badge/-Raj-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/raj-kushwaha-92611b20a/)
 
 <!---
 Rajintern/Rajintern is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
