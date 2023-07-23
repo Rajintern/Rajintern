@@ -21,7 +21,7 @@
 </div>
 <hr>
 :man_technologist: About Me :
-<br>
+
 
 - 👋 Hi, I’m @rajkushwaha
 - 👨‍🎓 Final year student at PSIT-College Of Engineering
@@ -34,6 +34,8 @@
 
 <hr>
 :hammer_and_wrench: Languages and Tools :
+<br>
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
