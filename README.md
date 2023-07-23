@@ -7,14 +7,16 @@
  
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=Rajkushwaha0&style=flat-square&color=blue" alt=""/>
+
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 - 👋 Hi, I’m @rajkushwaha
-- 👀 I’m interested in Web development,Python development
-- 🌱 I’m currently learning java with it's application
+- 👀 I’m interested in Web development,Java,Python
+- 🌱 I’m currently learning MERN Full Stack Web Development
 - 📫 How to reach me rajvsraj0123@gmail.com
 
 <!---
