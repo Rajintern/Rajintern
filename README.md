@@ -21,7 +21,6 @@
 </div>
 <hr>
 :man_technologist: About Me :
-<br>
 - 👋 Hi, I’m @rajkushwaha
 - 👨‍🎓 Final year student at PSIT-College Of Engineering
 - 👀 I’m interested in Web development,Java,Python,Software Development.
