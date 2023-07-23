@@ -26,7 +26,7 @@
 - 👀 I’m interested in Web development,Java,Python,Software Development.
 - 🌱 I’m currently learning MERN Full-Stack Web Development.
 - ⚡ I have soove 700+ problems on various platform.
-- 🌐 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/raj-kushwaha-92611b20a/)
+- 🌐 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Raj-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/raj-kushwaha-92611b20a/)
 - 📫 How to reach me rajvsraj0123@gmail.com 
 
 <!---
