@@ -3,7 +3,6 @@
 
 <p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Rajkushwaha0&theme=midnight-purple&hide_border=true" alt="yyppsk" /></p>
 
-<a href="https://app.daily.dev/yyppsk"><img align="right" src="https://api.daily.dev/devcards/7067410bc963443fb39b1d26880c4d76.png?r=lkt" width="350" alt="Pranjal Pratap Singh's Dev Card"/></a>
 
 
 
@@ -20,10 +19,7 @@
 </div>
 
 
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
