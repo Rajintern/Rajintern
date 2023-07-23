@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 - 👋 Hi, I’m @rajkushwaha
 - 👀 I’m interested in Web development,Python development
 - 🌱 I’m currently learning java with it's application
