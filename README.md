@@ -27,13 +27,13 @@
 
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rajkushwaha0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rajkushwaha0&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkushwaha0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-# 🧑‍💻Hacktoberfest'22
+## 🧑‍💻Hacktoberfest'22
 
 [![An image of @rajkushwaha0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajkushwaha0)](https://holopin.io/@rajkushwaha0)
 
