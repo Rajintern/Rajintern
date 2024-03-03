@@ -39,10 +39,7 @@
 
 
 
-<hr>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+[![](https://visitcount.itsvg.in/api?id=Rajkushwaha0&label=Profile%20Views&color=10&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
 
 
