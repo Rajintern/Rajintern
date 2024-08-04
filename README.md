@@ -1,9 +1,9 @@
 # 💫 About Me:
 - 👋 Hi, I’m Raj Kushwaha
-- 👨‍🎓 Final year student at PSIT-College Of Engineering,Kanpur.
+- 👨‍🎓 Graduate from PSIT-College Of Engineering,Kanpur.
 - 🌱 I’m interested in Web development,Java,Python,Software Development.
 - 🔭 I’m currently learning MERN Full-Stack Web Development.
-- ⚡ I have soove 800+ problems on various platform.
+- ⚡ I have soove 1000+ problems on various platform.
 - 📫 How to reach me **[rajvsraj0123@gmail.com](mailto:rajvsraj0123@gmail.com)**
 
 ## 🌐 Socials:
